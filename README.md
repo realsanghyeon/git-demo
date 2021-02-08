@@ -1,3 +1,3 @@
 # git-demo
-Add a line of code here in the `my-branch` branch. 
+Make a change here in the `main` branch.
 Add another line in the `my-branch` branch.
