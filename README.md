@@ -11,3 +11,5 @@ more snack advice: best fry dipping sauce = ketchup + may + garlic powder + srir
 - 2 8oz tubs cream cheese
 - 2 cups cheddar cheese
 - 3 chickn breasts (boiled and pulled)
+
+Its delicious
